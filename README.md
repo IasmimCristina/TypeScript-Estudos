@@ -1,4 +1,4 @@
-# ✨Estudando TypeScript...✨ 
+# ✨ _Estudando TypeScript..._ ✨ 
 Estudos e atividades com projetos desenvolvidos com TypeScript.
 ---
 ## 🤓Curso🤓
